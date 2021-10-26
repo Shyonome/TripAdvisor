@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+.top {
+    height: 160px;
+}
+
+.container {
+    border: 1px solid black;
+    display: flex;
+    padding: 20px 20px 20px 20px;
+    margin: auto;
+    width: 1136px;
+}
+
+header {
+    height: 40px;
+    justify-content: space-between;
+}
+
+.search {
+    border-radius: 20px;
+}
+
+.button {
+    border-radius: 20px;
+    width: 115px;
+    text-align: right;
+}
+
+.connectez-vous {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    width: 120px;
+}
+
+header img {
+    height: 40px;
+    width: 200px;
+}
+
+h1 {
+    border: 1px solid black;
+    font-size: 54px;
+    font-weight: 700;
+    padding: 10px 10px 10px 10px;
+}
+
+.explorez {
+    color: #FF5D5D;
+}
+
+.section {
+    border: 1px solid black;
+}
+
+.row-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+main {
+    height: 500px;
+}
+
+footer {
+    
+}
